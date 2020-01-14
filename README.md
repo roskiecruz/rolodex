@@ -1,3 +1,5 @@
+This is a React tutorial app that covers basics such as components, props, and some app architecture practices.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
